@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 48.84897959183674 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "alarm_whistle" 
+        xmin = 0 
+        xmax = 48.84897959183674 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.3322999052606153 
+            text = "k4" 
+        intervals [2]:
+            xmin = 2.3322999052606153 
+            xmax = 4.330788079225081 
+            text = "k4" 
+        intervals [3]:
+            xmin = 4.330788079225081 
+            xmax = 6.372564805694193 
+            text = "k4" 
+        intervals [4]:
+            xmin = 6.372564805694193 
+            xmax = 8.346446546672972 
+            text = "k4" 
+        intervals [5]:
+            xmin = 8.346446546672972 
+            xmax = 10.38100851439131 
+            text = "k4" 
+        intervals [6]:
+            xmin = 10.38100851439131 
+            xmax = 12.393630769800204 
+            text = "k4" 
+        intervals [7]:
+            xmin = 12.393630769800204 
+            xmax = 14.399333702515444 
+            text = "k4" 
+        intervals [8]:
+            xmin = 14.399333702515444 
+            xmax = 16.43058085298429 
+            text = "k4" 
+        intervals [9]:
+            xmin = 16.43058085298429 
+            xmax = 18.443498544450303 
+            text = "k4" 
+        intervals [10]:
+            xmin = 18.443498544450303 
+            xmax = 19.118008633403733 
+            text = "k4" 
+        intervals [11]:
+            xmin = 19.118008633403733 
+            xmax = 25.161112788504894 
+            text = "sil" 
+        intervals [12]:
+            xmin = 25.161112788504894 
+            xmax = 27.158943134466874 
+            text = "k4" 
+        intervals [13]:
+            xmin = 27.158943134466874 
+            xmax = 29.17447663422666 
+            text = "k4" 
+        intervals [14]:
+            xmin = 29.17447663422666 
+            xmax = 31.180179566941906 
+            text = "k4" 
+        intervals [15]:
+            xmin = 31.180179566941906 
+            xmax = 33.18482106891972 
+            text = "k4" 
+        intervals [16]:
+            xmin = 33.18482106891972 
+            xmax = 35.197738752191654 
+            text = "k4" 
+        intervals [17]:
+            xmin = 35.197738752191654 
+            xmax = 37.21787119418499 
+            text = "k4" 
+        intervals [18]:
+            xmin = 37.21787119418499 
+            xmax = 39.221740378213475 
+            text = "k4" 
+        intervals [19]:
+            xmin = 39.221740378213475 
+            xmax = 41.234658061485405 
+            text = "k4" 
+        intervals [20]:
+            xmin = 41.234658061485405 
+            xmax = 43.27137494943188 
+            text = "k4" 
+        intervals [21]:
+            xmin = 43.27137494943188 
+            xmax = 43.97842130412955 
+            text = "k4" 
+        intervals [22]:
+            xmin = 43.97842130412955 
+            xmax = 48.84897959183674 
+            text = "sil" 

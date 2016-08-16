@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 87.327375 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "John" 
+        xmin = 0 
+        xmax = 87.327375 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 49.51951216791037 
+            text = "" 
+        intervals [2]:
+            xmin = 49.51951216791037 
+            xmax = 50.76045067311377 
+            text = "k2" 
+        intervals [3]:
+            xmin = 50.76045067311377 
+            xmax = 52.051625 
+            text = "k2" 
+        intervals [4]:
+            xmin = 52.051625 
+            xmax = 53.016125 
+            text = "k2" 
+        intervals [5]:
+            xmin = 53.016125 
+            xmax = 56.118625 
+            text = "" 
+        intervals [6]:
+            xmin = 56.118625 
+            xmax = 60.51480450471264 
+            text = "k2" 
+        intervals [7]:
+            xmin = 60.51480450471264 
+            xmax = 64.15104291530867 
+            text = "" 
+        intervals [8]:
+            xmin = 64.15104291530867 
+            xmax = 67.143 
+            text = "k2" 
+        intervals [9]:
+            xmin = 67.143 
+            xmax = 68.21496251822285 
+            text = "" 
+        intervals [10]:
+            xmin = 68.21496251822285 
+            xmax = 69.34046488303062 
+            text = "k1" 
+        intervals [11]:
+            xmin = 69.34046488303062 
+            xmax = 70.37939014285318 
+            text = "k1" 
+        intervals [12]:
+            xmin = 70.37939014285318 
+            xmax = 71.10086601772997 
+            text = "k1" 
+        intervals [13]:
+            xmin = 71.10086601772997 
+            xmax = 71.7825 
+            text = "k1" 
+        intervals [14]:
+            xmin = 71.7825 
+            xmax = 77.56528985662592 
+            text = "" 
+        intervals [15]:
+            xmin = 77.56528985662592 
+            xmax = 79.29683195633021 
+            text = "k1" 
+        intervals [16]:
+            xmin = 79.29683195633021 
+            xmax = 87.327375 
+            text = "" 

@@ -1,0 +1,30 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.401360544217687 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "alarm_whistle" 
+        xmin = 0 
+        xmax = 3.401360544217687 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08922055103971577 
+            text = "sil" 
+        intervals [2]:
+            xmin = 0.08922055103971577 
+            xmax = 1.2605963482838733 
+            text = "k4" 
+        intervals [3]:
+            xmin = 1.2605963482838733 
+            xmax = 2.526860129103675 
+            text = "k4" 
+        intervals [4]:
+            xmin = 2.526860129103675 
+            xmax = 3.401360544217687 
+            text = "k4" 

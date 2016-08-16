@@ -1,0 +1,82 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.040875 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "John" 
+        xmin = 0 
+        xmax = 2.040875 
+        intervals: size = 17 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.047644101371807 
+            text = "fill" 
+        intervals [2]:
+            xmin = 0.047644101371807 
+            xmax = 0.11243155274361402 
+            text = "k1" 
+        intervals [3]:
+            xmin = 0.11243155274361402 
+            xmax = 0.17525574801324506 
+            text = "k1" 
+        intervals [4]:
+            xmin = 0.17525574801324506 
+            xmax = 0.243969711589404 
+            text = "k1" 
+        intervals [5]:
+            xmin = 0.243969711589404 
+            xmax = 0.310720419063387 
+            text = "k1" 
+        intervals [6]:
+            xmin = 0.310720419063387 
+            xmax = 0.37747112653736997 
+            text = "k1" 
+        intervals [7]:
+            xmin = 0.37747112653736997 
+            xmax = 0.4481483462157049 
+            text = "k1" 
+        intervals [8]:
+            xmin = 0.4481483462157049 
+            xmax = 0.5816497611636708 
+            text = "k1" 
+        intervals [9]:
+            xmin = 0.5816497611636708 
+            xmax = 0.6582167491485337 
+            text = "k1" 
+        intervals [10]:
+            xmin = 0.6582167491485337 
+            xmax = 0.7308572249290446 
+            text = "k1" 
+        intervals [11]:
+            xmin = 0.7308572249290446 
+            xmax = 0.7956446763008516 
+            text = "k1" 
+        intervals [12]:
+            xmin = 0.7956446763008516 
+            xmax = 0.8604321276726586 
+            text = "k1" 
+        intervals [13]:
+            xmin = 0.8604321276726586 
+            xmax = 0.9193298107379377 
+            text = "k1" 
+        intervals [14]:
+            xmin = 0.9193298107379377 
+            xmax = 0.9841172621097447 
+            text = "k1" 
+        intervals [15]:
+            xmin = 0.9841172621097447 
+            xmax = 1.0547944817880797 
+            text = "k1" 
+        intervals [16]:
+            xmin = 1.0547944817880797 
+            xmax = 1.1215451892620627 
+            text = "k1" 
+        intervals [17]:
+            xmin = 1.1215451892620627 
+            xmax = 2.040875 
+            text = "k1" 

@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 40.728 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "whistle" 
+        xmin = 0 
+        xmax = 40.728 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.098327341532638 
+            text = "sil" 
+        intervals [2]:
+            xmin = 9.098327341532638 
+            xmax = 16.65047286790536 
+            text = "fil" 
+        intervals [3]:
+            xmin = 16.65047286790536 
+            xmax = 18.129498411897792 
+            text = "k4" 
+        intervals [4]:
+            xmin = 18.129498411897792 
+            xmax = 23.788470535768887 
+            text = "fil" 
+        intervals [5]:
+            xmin = 23.788470535768887 
+            xmax = 24.026194316556396 
+            text = "k1" 
+        intervals [6]:
+            xmin = 24.026194316556396 
+            xmax = 24.28628888960049 
+            text = "k1" 
+        intervals [7]:
+            xmin = 24.28628888960049 
+            xmax = 24.552871705392725 
+            text = "k1" 
+        intervals [8]:
+            xmin = 24.552871705392725 
+            xmax = 24.76563274099199 
+            text = "k1" 
+        intervals [9]:
+            xmin = 24.76563274099199 
+            xmax = 24.987486572590857 
+            text = "k1" 
+        intervals [10]:
+            xmin = 24.987486572590857 
+            xmax = 25.43053127312743 
+            text = "fil" 
+        intervals [11]:
+            xmin = 25.43053127312743 
+            xmax = 25.67042200160425 
+            text = "k1" 
+        intervals [12]:
+            xmin = 25.67042200160425 
+            xmax = 26.06001897416811 
+            text = "k1" 
+        intervals [13]:
+            xmin = 26.06001897416811 
+            xmax = 26.323357668586276 
+            text = "k1" 
+        intervals [14]:
+            xmin = 26.323357668586276 
+            xmax = 26.60047221892723 
+            text = "k1" 
+        intervals [15]:
+            xmin = 26.60047221892723 
+            xmax = 26.9016883967891 
+            text = "k1" 
+        intervals [16]:
+            xmin = 26.9016883967891 
+            xmax = 27.05680570993953 
+            text = "k1" 
+        intervals [17]:
+            xmin = 27.05680570993953 
+            xmax = 35.38411904609709 
+            text = "fil" 
+        intervals [18]:
+            xmin = 35.38411904609709 
+            xmax = 40.728 
+            text = "sil" 

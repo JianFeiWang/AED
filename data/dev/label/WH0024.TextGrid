@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 72.408 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "whistle" 
+        xmin = 0 
+        xmax = 72.408 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.098616527513528 
+            text = "sil" 
+        intervals [2]:
+            xmin = 9.098616527513528 
+            xmax = 9.383599498185239 
+            text = "fil" 
+        intervals [3]:
+            xmin = 9.383599498185239 
+            xmax = 10.040142544542855 
+            text = "k4" 
+        intervals [4]:
+            xmin = 10.040142544542855 
+            xmax = 16.825965403710526 
+            text = "fil" 
+        intervals [5]:
+            xmin = 16.825965403710526 
+            xmax = 17.879320181383182 
+            text = "k4" 
+        intervals [6]:
+            xmin = 17.879320181383182 
+            xmax = 36.34794485281509 
+            text = "fil" 
+        intervals [7]:
+            xmin = 36.34794485281509 
+            xmax = 50.58318090328173 
+            text = "fil" 
+        intervals [8]:
+            xmin = 50.58318090328173 
+            xmax = 51.232509190888166 
+            text = "k4" 
+        intervals [9]:
+            xmin = 51.232509190888166 
+            xmax = 61.78634945229115 
+            text = "fil" 
+        intervals [10]:
+            xmin = 61.78634945229115 
+            xmax = 65.62029714861943 
+            text = "k4" 
+        intervals [11]:
+            xmin = 65.62029714861943 
+            xmax = 67.04433750146575 
+            text = "fil" 
+        intervals [12]:
+            xmin = 67.04433750146575 
+            xmax = 72.408 
+            text = "sil" 

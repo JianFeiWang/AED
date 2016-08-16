@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 138.449 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "John" 
+        xmin = 0 
+        xmax = 138.449 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 12.474834437086091 
+            text = "fill" 
+        intervals [2]:
+            xmin = 12.474834437086091 
+            xmax = 13.946645222327339 
+            text = "k2" 
+        intervals [3]:
+            xmin = 13.946645222327339 
+            xmax = 16.572817407757803 
+            text = "k2" 
+        intervals [4]:
+            xmin = 16.572817407757803 
+            xmax = 23.491122792098835 
+            text = "fill" 
+        intervals [5]:
+            xmin = 23.491122792098835 
+            xmax = 24.847497437321163 
+            text = "k2" 
+        intervals [6]:
+            xmin = 24.847497437321163 
+            xmax = 29.98440566816317 
+            text = "k2" 
+        intervals [7]:
+            xmin = 29.98440566816317 
+            xmax = 36.64297980668612 
+            text = "fill" 
+        intervals [8]:
+            xmin = 36.64297980668612 
+            xmax = 40.13492304225849 
+            text = "k2" 
+        intervals [9]:
+            xmin = 40.13492304225849 
+            xmax = 45.531562588143075 
+            text = "fill" 
+        intervals [10]:
+            xmin = 45.531562588143075 
+            xmax = 47.18300565583355 
+            text = "k2" 
+        intervals [11]:
+            xmin = 47.18300565583355 
+            xmax = 54.272364867995684 
+            text = "k2" 
+        intervals [12]:
+            xmin = 54.272364867995684 
+            xmax = 58.54350204869577 
+            text = "fill" 
+        intervals [13]:
+            xmin = 58.54350204869577 
+            xmax = 64.92134878474118 
+            text = "k2" 
+        intervals [14]:
+            xmin = 64.92134878474118 
+            xmax = 78.36445166192308 
+            text = "fill" 
+        intervals [15]:
+            xmin = 78.36445166192308 
+            xmax = 81.48252250199981 
+            text = "k2" 
+        intervals [16]:
+            xmin = 81.48252250199981 
+            xmax = 93.40130395895343 
+            text = "fill" 
+        intervals [17]:
+            xmin = 93.40130395895343 
+            xmax = 98.43631181635021 
+            text = "k2" 
+        intervals [18]:
+            xmin = 98.43631181635021 
+            xmax = 123.5327718337015 
+            text = "fill" 
+        intervals [19]:
+            xmin = 123.5327718337015 
+            xmax = 124.16767060288575 
+            text = "k2" 
+        intervals [20]:
+            xmin = 124.16767060288575 
+            xmax = 138.449 
+            text = "fill" 

@@ -1,0 +1,12 @@
+ed -i s/[\[\']//g vadfeat
+sed -i s/\d*\]/\=\[/g vadfeat
+sed -i /^k4.*/s/$/\]\;bar\(k4\,\'r\'\);hold on/g vadfeat
+sed -i /^k2.*/s/$/\]\;bar\(k2\,\'r\'\);hold on/g vadfeat
+sed -i /^k1.*/s/$/\]\;bar\(k1\,\'r\'\);hold on/g vadfeat
+sed -i /^k3.*/s/$/\]\;bar\(k3\,\'r\'\);hold on/g vadfeat
+sed -i /^fil=.*/s/$/\]\;bar\(fil\);hold on/g vadfeat
+sed -i /^sli.*/s/$/\]\;bar\(sli\,\'y\'\);hold on/g vadfeat
+sed -i /^fill.*/s/$/\]\;bar\(fill\);hold on/g vadfeat
+sed -i /^sil.*/s/$/\]\;bar\(sil\,\'y\'\);hold on/g vadfeat
+sed -i /^oth.*/s/$/\]\;bar\(oth\);hold on/g vadfeat
+

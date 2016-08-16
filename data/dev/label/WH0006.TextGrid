@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 144.24825 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "John" 
+        xmin = 0 
+        xmax = 144.24825 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 8.37685146641438 
+            text = "" 
+        intervals [2]:
+            xmin = 8.37685146641438 
+            xmax = 9.704367076631975 
+            text = "k3" 
+        intervals [3]:
+            xmin = 9.704367076631975 
+            xmax = 16.938279109768207 
+            text = "" 
+        intervals [4]:
+            xmin = 16.938279109768207 
+            xmax = 18.672806316485328 
+            text = "k3" 
+        intervals [5]:
+            xmin = 18.672806316485328 
+            xmax = 70.56503809489736 
+            text = "         " 
+        intervals [6]:
+            xmin = 70.56503809489736 
+            xmax = 71.70982605133067 
+            text = "k3" 
+        intervals [7]:
+            xmin = 71.70982605133067 
+            xmax = 72.412125 
+            text = "k3" 
+        intervals [8]:
+            xmin = 72.412125 
+            xmax = 73.68718706698819 
+            text = "k3" 
+        intervals [9]:
+            xmin = 73.68718706698819 
+            xmax = 75.2482615530336 
+            text = "k3" 
+        intervals [10]:
+            xmin = 75.2482615530336 
+            xmax = 75.66454808264571 
+            text = "k3" 
+        intervals [11]:
+            xmin = 75.66454808264571 
+            xmax = 76.635375 
+            text = "k3" 
+        intervals [12]:
+            xmin = 76.635375 
+            xmax = 77.15624148042244 
+            text = "" 
+        intervals [13]:
+            xmin = 77.15624148042244 
+            xmax = 78.275875 
+            text = "k3" 
+        intervals [14]:
+            xmin = 78.275875 
+            xmax = 79.02953086367693 
+            text = "" 
+        intervals [15]:
+            xmin = 79.02953086367693 
+            xmax = 79.89679446703549 
+            text = "k3" 
+        intervals [16]:
+            xmin = 79.89679446703549 
+            xmax = 80.83343915866274 
+            text = "k3" 
+        intervals [17]:
+            xmin = 80.83343915866274 
+            xmax = 82.39451364470816 
+            text = "" 
+        intervals [18]:
+            xmin = 82.39451364470816 
+            xmax = 83.19239615979804 
+            text = "k3" 
+        intervals [19]:
+            xmin = 83.19239615979804 
+            xmax = 94.91007148107723 
+            text = "" 
+        intervals [20]:
+            xmin = 94.91007148107723 
+            xmax = 95.98547834924183 
+            text = "k3" 
+        intervals [21]:
+            xmin = 95.98547834924183 
+            xmax = 143.40638329812634 
+            text = "" 
+        intervals [22]:
+            xmin = 143.40638329812634 
+            xmax = 144.24825 
+            text = "k3" 

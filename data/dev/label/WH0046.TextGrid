@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.854875 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "John" 
+        xmin = 0 
+        xmax = 3.854875 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0640339595553453 
+            text = "fill" 
+        intervals [2]:
+            xmin = 0.0640339595553453 
+            xmax = 0.23090591840113528 
+            text = "k1" 
+        intervals [3]:
+            xmin = 0.23090591840113528 
+            xmax = 0.49790105255439915 
+            text = "k1" 
+        intervals [4]:
+            xmin = 0.49790105255439915 
+            xmax = 0.8761441592715231 
+            text = "k1" 
+        intervals [5]:
+            xmin = 0.8761441592715231 
+            xmax = 1.1913467482024596 
+            text = "k1" 
+        intervals [6]:
+            xmin = 1.1913467482024596 
+            xmax = 1.5028410713812677 
+            text = "k1" 
+        intervals [7]:
+            xmin = 1.5028410713812677 
+            xmax = 1.8440015205771048 
+            text = "k1" 
+        intervals [8]:
+            xmin = 1.8440015205771048 
+            xmax = 2.0405396054399243 
+            text = "k1" 
+        intervals [9]:
+            xmin = 2.0405396054399243 
+            xmax = 2.285285145080416 
+            text = "k1" 
+        intervals [10]:
+            xmin = 2.285285145080416 
+            xmax = 2.641278657284768 
+            text = "k1" 
+        intervals [11]:
+            xmin = 2.641278657284768 
+            xmax = 2.975022574976348 
+            text = "k1" 
+        intervals [12]:
+            xmin = 2.975022574976348 
+            xmax = 3.2976416954115417 
+            text = "k1" 
+        intervals [13]:
+            xmin = 3.2976416954115417 
+            xmax = 3.698134396641438 
+            text = "k1" 
+        intervals [14]:
+            xmin = 3.698134396641438 
+            xmax = 3.854875 
+            text = "fill" 

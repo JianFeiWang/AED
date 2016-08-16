@@ -1,0 +1,218 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 100.51925 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "John" 
+        xmin = 0 
+        xmax = 100.51925 
+        intervals: size = 51 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16065752110703246 
+            text = "fill" 
+        intervals [2]:
+            xmin = 0.16065752110703246 
+            xmax = 1.6901863746476071 
+            text = "k2" 
+        intervals [3]:
+            xmin = 1.6901863746476071 
+            xmax = 4.049412483646512 
+            text = "k2" 
+        intervals [4]:
+            xmin = 4.049412483646512 
+            xmax = 4.112541622648777 
+            text = "fill" 
+        intervals [5]:
+            xmin = 4.112541622648777 
+            xmax = 5.9643686178766755 
+            text = "k2" 
+        intervals [6]:
+            xmin = 5.9643686178766755 
+            xmax = 6.133915448339899 
+            text = "fill" 
+        intervals [7]:
+            xmin = 6.133915448339899 
+            xmax = 10.256840124702755 
+            text = "k2" 
+        intervals [8]:
+            xmin = 10.256840124702755 
+            xmax = 13.921031766774822 
+            text = "k2" 
+        intervals [9]:
+            xmin = 13.921031766774822 
+            xmax = 14.009446153673434 
+            text = "fill" 
+        intervals [10]:
+            xmin = 14.009446153673434 
+            xmax = 16.485860314011795 
+            text = "k2" 
+        intervals [11]:
+            xmin = 16.485860314011795 
+            xmax = 16.518326728355817 
+            text = "fill" 
+        intervals [12]:
+            xmin = 16.518326728355817 
+            xmax = 19.589631793785244 
+            text = "k2" 
+        intervals [13]:
+            xmin = 19.589631793785244 
+            xmax = 19.62945738391293 
+            text = "fill" 
+        intervals [14]:
+            xmin = 19.62945738391293 
+            xmax = 21.772385147658902 
+            text = "k2" 
+        intervals [15]:
+            xmin = 21.772385147658902 
+            xmax = 21.801244182631365 
+            text = "fill" 
+        intervals [16]:
+            xmin = 21.801244182631365 
+            xmax = 25.59376988058674 
+            text = "k2" 
+        intervals [17]:
+            xmin = 25.59376988058674 
+            xmax = 26.570974424679058 
+            text = "fill" 
+        intervals [18]:
+            xmin = 26.570974424679058 
+            xmax = 27.998875246980354 
+            text = "k2" 
+        intervals [19]:
+            xmin = 27.998875246980354 
+            xmax = 32.27981793684375 
+            text = "fill" 
+        intervals [20]:
+            xmin = 32.27981793684375 
+            xmax = 33.932652639888765 
+            text = "k2" 
+        intervals [21]:
+            xmin = 33.932652639888765 
+            xmax = 34.325856991388584 
+            text = "fill" 
+        intervals [22]:
+            xmin = 34.325856991388584 
+            xmax = 37.438008714607555 
+            text = "k2" 
+        intervals [23]:
+            xmin = 37.438008714607555 
+            xmax = 37.517371060781834 
+            text = "fill" 
+        intervals [24]:
+            xmin = 37.517371060781834 
+            xmax = 41.54554190259087 
+            text = "k2" 
+        intervals [25]:
+            xmin = 41.54554190259087 
+            xmax = 42.08664880832457 
+            text = "fill" 
+        intervals [26]:
+            xmin = 42.08664880832457 
+            xmax = 47.77617906392431 
+            text = "k2" 
+        intervals [27]:
+            xmin = 47.77617906392431 
+            xmax = 56.82094264508966 
+            text = "fill" 
+        intervals [28]:
+            xmin = 56.82094264508966 
+            xmax = 57.63337327305233 
+            text = "k2" 
+        intervals [29]:
+            xmin = 57.63337327305233 
+            xmax = 58.85988225938205 
+            text = "fill" 
+        intervals [30]:
+            xmin = 58.85988225938205 
+            xmax = 60.437506121750694 
+            text = "k2" 
+        intervals [31]:
+            xmin = 60.437506121750694 
+            xmax = 64.89120331236302 
+            text = "k2" 
+        intervals [32]:
+            xmin = 64.89120331236302 
+            xmax = 64.97417303790886 
+            text = "fill" 
+        intervals [33]:
+            xmin = 64.97417303790886 
+            xmax = 66.68433054529893 
+            text = "k2" 
+        intervals [34]:
+            xmin = 66.68433054529893 
+            xmax = 67.1311350535412 
+            text = "fill" 
+        intervals [35]:
+            xmin = 67.1311350535412 
+            xmax = 73.74750651558605 
+            text = "k2" 
+        intervals [36]:
+            xmin = 73.74750651558605 
+            xmax = 73.82326148238877 
+            text = "fill" 
+        intervals [37]:
+            xmin = 73.82326148238877 
+            xmax = 76.87973732124617 
+            text = "k2" 
+        intervals [38]:
+            xmin = 76.87973732124617 
+            xmax = 79.70485949530243 
+            text = "k2" 
+        intervals [39]:
+            xmin = 79.70485949530243 
+            xmax = 79.80211876477985 
+            text = "fill" 
+        intervals [40]:
+            xmin = 79.80211876477985 
+            xmax = 81.75822862708104 
+            text = "k2" 
+        intervals [41]:
+            xmin = 81.75822862708104 
+            xmax = 81.80592392682326 
+            text = "fill" 
+        intervals [42]:
+            xmin = 81.80592392682326 
+            xmax = 84.55486232644111 
+            text = "k2" 
+        intervals [43]:
+            xmin = 84.55486232644111 
+            xmax = 84.65586894884473 
+            text = "fill" 
+        intervals [44]:
+            xmin = 84.65586894884473 
+            xmax = 86.37840934465177 
+            text = "k2" 
+        intervals [45]:
+            xmin = 86.37840934465177 
+            xmax = 86.65089860184274 
+            text = "fill" 
+        intervals [46]:
+            xmin = 86.65089860184274 
+            xmax = 89.56566113406161 
+            text = "k2" 
+        intervals [47]:
+            xmin = 89.56566113406161 
+            xmax = 89.62534405662092 
+            text = "fill" 
+        intervals [48]:
+            xmin = 89.62534405662092 
+            xmax = 92.94566917369261 
+            text = "k2" 
+        intervals [49]:
+            xmin = 92.94566917369261 
+            xmax = 93.08635696918337 
+            text = "fill" 
+        intervals [50]:
+            xmin = 93.08635696918337 
+            xmax = 95.02792643899356 
+            text = "k2" 
+        intervals [51]:
+            xmin = 95.02792643899356 
+            xmax = 100.51925 
+            text = "fill" 

@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 22.449 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "John" 
+        xmin = 0 
+        xmax = 22.449 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2433327178807947 
+            text = " fill" 
+        intervals [2]:
+            xmin = 0.2433327178807947 
+            xmax = 2.359663875496689 
+            text = "k1" 
+        intervals [3]:
+            xmin = 2.359663875496689 
+            xmax = 3.11549643178808 
+            text = " fill" 
+        intervals [4]:
+            xmin = 3.11549643178808 
+            xmax = 5.296613237086093 
+            text = "k1" 
+        intervals [5]:
+            xmin = 5.296613237086093 
+            xmax = 5.966064929801325 
+            text = " fill" 
+        intervals [6]:
+            xmin = 5.966064929801325 
+            xmax = 9.442894688741722 
+            text = "k1" 
+        intervals [7]:
+            xmin = 9.442894688741722 
+            xmax = 10.50106026754967 
+            text = " fill" 
+        intervals [8]:
+            xmin = 10.50106026754967 
+            xmax = 12.401439266225166 
+            text = "k1" 
+        intervals [9]:
+            xmin = 12.401439266225166 
+            xmax = 13.286843117880796 
+            text = " fill" 
+        intervals [10]:
+            xmin = 13.286843117880796 
+            xmax = 14.949674741721855 
+            text = "k1" 
+        intervals [11]:
+            xmin = 14.949674741721855 
+            xmax = 15.813483377483445 
+            text = " fill" 
+        intervals [12]:
+            xmin = 15.813483377483445 
+            xmax = 18.664051875496693 
+            text = "k1" 
+        intervals [13]:
+            xmin = 18.664051875496693 
+            xmax = 19.527860511258282 
+            text = " fill" 
+        intervals [14]:
+            xmin = 19.527860511258282 
+            xmax = 22.449 
+            text = "k1" 

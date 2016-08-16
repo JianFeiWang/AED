@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 78.02775 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "John" 
+        xmin = 0 
+        xmax = 78.02775 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 5.664102175969725 
+            text = "" 
+        intervals [2]:
+            xmin = 5.664102175969725 
+            xmax = 6.67475 
+            text = "k1" 
+        intervals [3]:
+            xmin = 6.67475 
+            xmax = 10.07953453169347 
+            text = "" 
+        intervals [4]:
+            xmin = 10.07953453169347 
+            xmax = 11.383625 
+            text = "k1" 
+        intervals [5]:
+            xmin = 11.383625 
+            xmax = 15.70704635761589 
+            text = "" 
+        intervals [6]:
+            xmin = 15.70704635761589 
+            xmax = 16.846375 
+            text = "k1" 
+        intervals [7]:
+            xmin = 16.846375 
+            xmax = 40.316385228900124 
+            text = "" 
+        intervals [8]:
+            xmin = 40.316385228900124 
+            xmax = 41.387875 
+            text = "k1" 
+        intervals [9]:
+            xmin = 41.387875 
+            xmax = 46.72396378064066 
+            text = "" 
+        intervals [10]:
+            xmin = 46.72396378064066 
+            xmax = 47.64745290079203 
+            text = "k1" 
+        intervals [11]:
+            xmin = 47.64745290079203 
+            xmax = 50.492625 
+            text = "k3" 
+        intervals [12]:
+            xmin = 50.492625 
+            xmax = 74.75894773333364 
+            text = "" 
+        intervals [13]:
+            xmin = 74.75894773333364 
+            xmax = 76.46163079657566 
+            text = "k2" 
+        intervals [14]:
+            xmin = 76.46163079657566 
+            xmax = 77.38511991562218 
+            text = "k3" 
+        intervals [15]:
+            xmin = 77.38511991562218 
+            xmax = 78.02775 
+            text = "" 

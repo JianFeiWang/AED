@@ -87,7 +87,7 @@ for value in k.readlines():
            data_label.append(key[0])
 k.close()
 
-gmm = mi.GMM(n_components = 2, covariance_type = 'diag', tol = 0.0001,   n_iter = 100, params = "wmc", verbose = 0)
+gmm = mi.GMM(n_components = 2, covariance_type = 'diag', thresh = 1e-3, min_covar = 1e-7, n_iter = 100, params = "wmc")
 gmm.fit(data)
 
 #  READ THE CVDATA AND EXTRACT THE VADFEATURE
